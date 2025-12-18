@@ -1,0 +1,9 @@
+name: energy-sim
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - gurobi
+prefix: C:\Users\modi\miniconda3\envs\energy-sim
